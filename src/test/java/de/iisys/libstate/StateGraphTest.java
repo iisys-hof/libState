@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 /**
  * Class to test the state graph.
-  */
+ */
 public class StateGraphTest {
 
     private StateGraph stateGraph;
