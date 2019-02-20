@@ -1,0 +1,2 @@
+# libState
+Bibliothek für Zustandsdiagramme
